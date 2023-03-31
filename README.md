@@ -18,7 +18,7 @@ In seguito sono riportati degli screenshot che mostrano il funzionamento della F
 
 Infine, sono riportati degli screenshot che mostrano il funzionamento della Age Estimation.
 
-<img width="1440" alt="s2" src="https://user-images.githubusercontent.com/109990354/229222241-57f1716a-5c63-4caf-a857-521caf787b5e.png">
+<img width="1440" alt="s2" src="https://user-images.githubusercontent.com/109990354/229222548-062a1d5b-cf11-4f12-8431-a21af00988e5.png">
 
 
 
