@@ -9,7 +9,7 @@
  * Labels: visualizzazione delle labels relative ai volti riconosciuti
  * Age Estimation: funzionalità di stima sull'età dei volti visualizzati a partire da una foto in input
  
- ![IMG_0990](https://user-images.githubusercontent.com/109990354/229217787-6233ceb9-3889-43c2-acd4-d439b1855624.PNG)
+<img width="1440" alt="sfondo" src="https://user-images.githubusercontent.com/109990354/229219940-af9aa2c9-c304-4a41-94aa-73c7d68f4922.png">
 
 In seguito sono riportati degli screenshot che mostrano il funzionamento della Face Recognition.
 
