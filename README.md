@@ -13,14 +13,12 @@
 
 In seguito sono riportati degli screenshot che mostrano il funzionamento della Face Recognition.
 
-<img width="486" alt="image" src="https://user-images.githubusercontent.com/109990354/229218189-166b8ddb-0ef3-405a-9df7-945c4ca78b2a.png">
-<img width="486" alt="image" src="https://user-images.githubusercontent.com/109990354/229218369-44b56f10-8ef8-4da5-b609-0f17890c301e.png">
+<img width="1440" alt="s1" src="https://user-images.githubusercontent.com/109990354/229222203-50ea101e-5ffd-40b5-930f-80705c7aa12b.png">
+
 
 Infine, sono riportati degli screenshot che mostrano il funzionamento della Age Estimation.
 
-![IMG_1011](https://user-images.githubusercontent.com/109990354/229218562-65c56e9a-fb80-455f-9cd5-6b610fce823a.PNG)
-![IMG_1012](https://user-images.githubusercontent.com/109990354/229218578-343a4cbe-e606-4988-943d-151917c3c42d.PNG)
-![IMG_1014](https://user-images.githubusercontent.com/109990354/229218606-1d06e04b-e09d-4cdc-a73f-a6c88174f7ec.PNG)
-![IMG_1013](https://user-images.githubusercontent.com/109990354/229218624-ef0d4fb8-bef0-44e5-b671-9064ffb81dd4.PNG)
+<img width="1440" alt="s2" src="https://user-images.githubusercontent.com/109990354/229222241-57f1716a-5c63-4caf-a857-521caf787b5e.png">
+
 
 
